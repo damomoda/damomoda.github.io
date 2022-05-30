@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /images/
+Allow: /tags/
+Allow: /articles/
+Disallow:
+Sitemap: https://damo.moda/sitemap.xml
+Sitemap: https://damo.moda/baidusitemap.xml
