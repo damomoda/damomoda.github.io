@@ -170,6 +170,13 @@
   </url>
   
   <url>
+    <loc>https://damo.moda/tags/booknotes/</loc>
+    <lastmod>2022-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://damo.moda/tags/markdown/</loc>
     <lastmod>2022-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,7 +212,21 @@
   </url>
   
   <url>
-    <loc>https://damo.moda/tags/booknotes/</loc>
+    <loc>https://damo.moda/tags/github/</loc>
+    <lastmod>2022-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://damo.moda/tags/page/</loc>
+    <lastmod>2022-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://damo.moda/tags/blog/</loc>
     <lastmod>2022-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -241,27 +262,6 @@
   
   <url>
     <loc>https://damo.moda/tags/%E5%91%A8%E6%BF%82/</loc>
-    <lastmod>2022-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://damo.moda/tags/github/</loc>
-    <lastmod>2022-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://damo.moda/tags/page/</loc>
-    <lastmod>2022-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://damo.moda/tags/blog/</loc>
     <lastmod>2022-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
